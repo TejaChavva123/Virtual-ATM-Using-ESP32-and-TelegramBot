@@ -1,6 +1,6 @@
 # Virtual-ATM-Using-ESP32-and-TelegramBot
 
-This a part of evaluation for Embedded Systems course(ECL 403) in Visvesvaraya National Institute of Technology, Nagpur instructed by Ankit A. Bhurane and Amit Agarwal.
+This is a part of evaluation for Embedded Systems course(ECL 403) in Visvesvaraya National Institute of Technology, Nagpur instructed by Ankit A. Bhurane and Amit Agarwal.
 
 # Problem Statement
 We have to design an ATM machine in which user is able to login the
